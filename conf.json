@@ -1,5 +1,5 @@
 {
-"repository_root":"https://raw.githubusercontent.com/cybertop35/test_nifi/",
+"repository_root":"https://raw.githubusercontent.com/cybertop35/test_nifi/main/",
 "sinistri": { "root_path": "sinitri/table",
 			   "presentation_path":"sinistri/presentation",
 			   "DATABASE_NAME_XXX":"",
