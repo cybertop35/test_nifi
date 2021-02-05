@@ -1,1 +1,16 @@
+{
+"repository_root":"",
+"sinistri": { "root_path": "",
+			   "presentation_path":"",
+			   "DATABASE_NAME_XXX":"",
+			   "DATABASE_TARGET:"",
+			   "DATABASE_PRESENTATION":""
+			},
+"UNICA": { "root_path": "",
+			   "presentation_path":"",
+			   "DATABASE_NAME_XXX":"",
+			   "DATABASE_TARGET:"",
+			   "DATABASE_PRESENTATION":""
+			}
 
+}
