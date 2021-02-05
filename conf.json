@@ -1,9 +1,9 @@
 {
-"repository_root":"",
-"sinistri": { "root_path": "",
-			   "presentation_path":"",
+"repository_root":"https://raw.githubusercontent.com/cybertop35/test_nifi/",
+"sinistri": { "root_path": "sinitri/table",
+			   "presentation_path":"sinistri/presentation",
 			   "DATABASE_NAME_XXX":"",
-			   "DATABASE_TARGET:"",
+			   "DATABASE_TARGET:"TARGETTTTTTTTTT",
 			   "DATABASE_PRESENTATION":""
 			},
 "UNICA": { "root_path": "",
@@ -11,6 +11,11 @@
 			   "DATABASE_NAME_XXX":"",
 			   "DATABASE_TARGET:"",
 			   "DATABASE_PRESENTATION":""
+			}
+"STG": { 	"root_path": "stage/",
+			   "presentation_path":"",
+			   "DATABASE_NAME_XXX":"",
+			   "DATABASE_TARGET:"",
 			}
 
 }
