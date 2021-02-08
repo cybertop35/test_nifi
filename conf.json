@@ -1,6 +1,6 @@
 {
 "repository_root":"https://raw.githubusercontent.com/cybertop35/test_nifi/main/",
-"sinistri": { "root_path": "sinitri/table",
+"sinistri": { "root_path": "sinistri/table",
 			   "presentation_path":"sinistri/presentation",
 			   "DATABASE_NAME_XXX":"",
 			   "DATABASE_TARGET":"TARGETTTTTTTTTT",
