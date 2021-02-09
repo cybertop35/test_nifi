@@ -1,20 +1,24 @@
 {
 "repository_root":"https://raw.githubusercontent.com/cybertop35/test_nifi/main/",
-"sinistri": { "root_path": "sinistri/table",
-			   "presentation_path":"sinistri/presentation",
-			   "DATABASE_NAME_XXX":"",
-			   "DATABASE_TARGET":"TARGETTTTTTTTTT",
-			   "DATABASE_PRESENTATION":""
-			},
-"UNICA": { "root_path": "",
-			   "presentation_path":"",
-			   "DATABASE_NAME_XXX":"",
-			   "DATABASE_TARGET":"",
-			   "DATABASE_PRESENTATION":""
-			},
-"STG": { 	"root_path": "stage/",
-			   "presentation_path":"",
-			   "DATABASE_NAME_XXX":"",
-			   "DATABASE_TARGET":""
-			}
+"ambiti": {
+	"sinistri": { "root_path": "sinistri/table",
+				   "presentation_path":"sinistri/presentation",
+				   "DATABASE_TARGET":"TARGETTTTTTTTTT",
+				   "DATABASE_PRESENTATION":""
+				},
+	"UNICA": { "root_path": "",
+				   "presentation_path":"",
+				   "DATABASE_TARGET":"",
+				   "DATABASE_PRESENTATION":""
+				},
+	"STG": { 	"root_path": "stage/",
+				   "presentation_path":"",
+
+				   "DATABASE_TARGET":""
+				}
+	}
+	
+"databases":{"DATABASE_A ":"AAAAAAA",
+	     "DATABASE_B ":"BBBBBB",
+	  }
 }
