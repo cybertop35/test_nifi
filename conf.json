@@ -18,7 +18,7 @@
 				}
 	},
 	
-"databases":{"DATABASE_A ":"AAAAAAA",
-	     "DATABASE_B ":"BBBBBB"
+"databases":{"DATABASE_A":"AAAAAAA",
+	     "DATABASE_B":"BBBBBB"
 	  }
 }
