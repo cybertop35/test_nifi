@@ -16,9 +16,9 @@
 
 				   "DATABASE_TARGET":""
 				}
-	}
+	},
 	
 "databases":{"DATABASE_A ":"AAAAAAA",
-	     "DATABASE_B ":"BBBBBB",
+	     "DATABASE_B ":"BBBBBB"
 	  }
 }
